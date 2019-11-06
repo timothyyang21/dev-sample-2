@@ -72,7 +72,7 @@ Install pathlib2:
 
 ## Run Instructions
 
-### Run Maze Graphics Program
+### Run Game Program
 Run the following command:
 
 ``` $ python3 start_game.py x ```
