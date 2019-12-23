@@ -6,6 +6,16 @@
 Author: Timothy Yang
 Date: October 2019
 
+## Game Instructions
+
+This game is designed to teach people how to perform linear algebra's row reduction and reducing a matrix to its row reduced echelon form. In short, one needs to add and swap rows in order to reduce the rows so that each row's leading entry is the only one in its column.
+
+### Start Game
+
+Once the environment is set up, type the following in terminal to startup the game:
+``` $ python3 start_game.py 2 ```
+Below is the build instructions.
+
 ## Build Instructions
 
 ### Build Maze Graphics Program
